@@ -1,0 +1,36 @@
+<!--
+  ~ Copyright 2015 marlonlom
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~ http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Heusum</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text_font_family">sans-serif-condensed</string>
+    <string name="action_cast">ChromeCast</string>
+
+    <!-- video specific strings for demo-->
+    <string name="video_url">http://0.s3.envato.com/h264-video-previews/80fad324-9db4-11e3-bf3d-0050569255a8/490527.mp4</string>
+    <string name="app_id">F700CB8F</string>
+    <string name="play_video">Play video</string>
+    <string name="pause_video">Pause</string>
+    <string name="resume_video">Resume</string>
+    <string name="video_title">Demo\'s Chromecast Video Stream</string>
+    <string name="content_type_mp4">video/mp4</string>
+
+</resources>
