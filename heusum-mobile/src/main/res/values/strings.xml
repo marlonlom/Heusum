@@ -26,6 +26,7 @@
 
     <!-- video specific strings for demo-->
     <string name="video_url">http://0.s3.envato.com/h264-video-previews/80fad324-9db4-11e3-bf3d-0050569255a8/490527.mp4</string>
+    <!--<string name="video_url">https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4</string>-->
     <string name="app_id">F700CB8F</string>
     <string name="play_video">Play video</string>
     <string name="pause_video">Pause</string>
